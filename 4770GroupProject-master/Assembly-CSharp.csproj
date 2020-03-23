@@ -45,9 +45,11 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\EnemyPacingMovement.cs" />
+     <Compile Include="Assets\EnemyMovement.cs" />
+     <Compile Include="Assets\Scripts\BigEnemyMovement.cs" />
      <Compile Include="Assets\Scripts\MoveCamera.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+     <Compile Include="Assets\Sword.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Workspace/school/COMP4770/4770GroupProject/4770GroupProject-master/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
